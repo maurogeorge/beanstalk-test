@@ -1,6 +1,6 @@
 # beanstalk-test
 
-This project is a [Rails](http://rubyonrails.org/) application used to SOMETHING.
+This project is a [Rails](http://rubyonrails.org/) application used to test [AWS Elastic Beanstalk](http://aws.amazon.com/pt/elasticbeanstalk/).
 
 ## Dependencies
 
