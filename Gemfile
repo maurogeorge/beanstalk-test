@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.2'
+ruby '2.0.0'
 
 # See: https://github.com/rails/rails/issues/13164
 gem 'i18n',                   github: 'svenfuchs/i18n',
